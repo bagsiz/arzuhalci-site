@@ -1,12 +1,12 @@
 # Arzuhalci
 
-> Arzuhalci, iPhone için Türkçe bir uygulamadır: icra ödeme emri, tebligat, vergi, SGK, kira ve mahkeme gibi resmî evrakın ne dediğini, ne yapmak gerektiğini ve son tarihini sade Türkçeyle açıklar. Metin tanıma (Vision) ve açıklama (Apple Foundation Models) tamamen cihazda yapılır; sunucu, hesap, analiz ve takip yoktur. Hukuki tavsiye değildir, hata yapabilir ve avukatın yerini tutmaz.
+> Arzuhalci, iPhone için Türkçe bir uygulamadır: icra ödeme emri, tebligat, vergi, SGK, kira ve mahkeme gibi resmî evrakın ne dediğini, ne yapmak gerektiğini ve son tarihini sade Türkçeyle açıklar. Apple Intelligence ile cihaz üzerinde çalışır: metin tanıma (Vision) ve açıklama (Apple Foundation Models) tamamen cihazda yapılır; sunucu, hesap, analiz ve takip yoktur. Hukuki tavsiye değildir, hata yapabilir ve avukatın yerini tutmaz.
 
 - Ana sayfa: https://bagsiz.github.io/arzuhalci-site/
 - Gizlilik Politikası: https://bagsiz.github.io/arzuhalci-site/gizlilik.html
 - Destek: https://bagsiz.github.io/arzuhalci-site/destek.html
 - Sorun bildirimi: https://github.com/bagsiz/arzuhalci-site/issues
-- Durum: App Store'da henüz yayımlanmadı
+- App Store: https://apps.apple.com/tr/app/id6838834879
 - Not: Apple Inc. ile bağlantılı değildir.
 
 ## Özellikler
