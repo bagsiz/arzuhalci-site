@@ -21,7 +21,7 @@ nav a.l{text-decoration:none;color:var(--muted);font-size:15px}nav a.l:hover{col
 .cta{display:flex;flex-wrap:wrap;align-items:center;gap:14px}
 .store{display:inline-block;line-height:0}.store img{height:56px;width:auto;display:block}
 .btn.ghost{background:transparent;color:#fff;border:1px solid rgba(255,255,255,.55);height:56px;padding:0 24px;box-sizing:border-box;line-height:1}
-.dl{text-align:center}.dl .store{margin:0}
+.dl{text-align:center}.dl .sub{margin-inline:auto}.dl .store{margin:0}
 .card.feat{grid-column:1/-1;display:grid;gap:4px}
 .badges{margin-top:14px;font-size:14px;opacity:.85}
 section{padding:56px 0}section.after-hero{padding-top:56px}
@@ -44,7 +44,7 @@ summary{cursor:pointer;font-weight:600}details p{margin:10px 0 0;color:var(--mut
 .disc strong{display:block;margin-bottom:4px}
 .band{background:linear-gradient(160deg,#0f4a6e,#0b2a4a);color:#fff}.band h2,.band p{color:#fff}.band .sub{color:#cfe3ea}
 footer{border-top:1px solid var(--line);padding:30px 0 50px;color:var(--muted);font-size:15px}
-footer a{color:var(--muted);margin-right:16px}
+footer a{color:var(--muted);margin-right:16px;white-space:nowrap;display:inline-block}
 .doc{max-width:760px;margin:0 auto;padding:24px 16px 60px}
 .doc h1{font-size:clamp(28px,6vw,40px);line-height:1.15;margin:12px 0 6px}
 .doc h2{font-size:23px;margin:34px 0 8px}
