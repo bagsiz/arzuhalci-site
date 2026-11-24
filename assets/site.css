@@ -18,10 +18,10 @@ nav a.l{text-decoration:none;color:var(--muted);font-size:15px}nav a.l:hover{col
 @media(min-width:820px){.hero-in{grid-template-columns:1.15fr .85fr;padding-top:48px}.hero .shot{width:300px}}
 .btn{display:inline-flex;align-items:center;gap:10px;background:#fff;color:#0b2a4a;font-weight:700;text-decoration:none;padding:13px 22px;border-radius:14px}
 .btn:hover{transform:translateY(-1px)}.btn small{display:block;font-weight:500;font-size:12px;opacity:.7;line-height:1.1}
-.cta{display:flex;flex-wrap:wrap;align-items:center;gap:14px 18px}
-.store{display:inline-block;padding:14px;margin:-14px;line-height:0}.store img{height:56px;width:auto;display:block}
+.cta{display:flex;flex-wrap:wrap;align-items:center;gap:14px}
+.store{display:inline-block;line-height:0}.store img{height:56px;width:auto;display:block}
 .btn.ghost{background:transparent;color:#fff;border:1px solid rgba(255,255,255,.55);height:56px;padding:0 24px;box-sizing:border-box;line-height:1}
-.dl{text-align:center}.dl .store{margin:0}.doc .store{margin:0;padding:10px 0}.doc p .store{padding:0;margin:0}
+.dl{text-align:center}.dl .store{margin:0}
 .card.feat{grid-column:1/-1;display:grid;gap:4px}
 .badges{margin-top:14px;font-size:14px;opacity:.85}
 section{padding:56px 0}section.after-hero{padding-top:56px}
